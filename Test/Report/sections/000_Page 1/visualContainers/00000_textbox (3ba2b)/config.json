@@ -1,0 +1,19 @@
+{
+  "name": "3ba2bde1e9097e2b7ea4",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 10,
+        "y": 290,
+        "width": 280,
+        "height": 280,
+        "z": 1
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "textbox",
+    "drillFilterOtherVisuals": true
+  }
+}

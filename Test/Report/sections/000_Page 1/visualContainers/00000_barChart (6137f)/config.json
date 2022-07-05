@@ -1,0 +1,19 @@
+{
+  "name": "6137f9525c013ebee572",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 10,
+        "y": 0,
+        "width": 280,
+        "height": 280,
+        "z": 0
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "barChart",
+    "drillFilterOtherVisuals": true
+  }
+}
