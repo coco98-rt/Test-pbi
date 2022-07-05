@@ -1,7 +1,17 @@
 {
-  "name": "Test",
+  "name": "74f87fb4-d5f8-4ff7-af7c-356e1ef4b79e",
   "compatibilityLevel": 1550,
   "model": {
-    "culture": "en-US"
+    "culture": "en-US",
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.105.664.0 (22.05)"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      }
+    ]
   }
 }
